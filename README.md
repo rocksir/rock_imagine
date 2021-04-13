@@ -1,6 +1,5 @@
 # rock_imagine
 
-Welcome friends
 Myself
 My name is rakesh jr
 I am a student in Karnataka
@@ -15,6 +14,6 @@ After that
 There photos added to the showcase
 
 
-I'll update more soon......
+I'll update more soon........
 Thanks for reading
 
