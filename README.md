@@ -1,7 +1,5 @@
 # rock_imagine
-
 Myself
-My name is rakesh jr
 I am a student in Karnataka
 
 I wished to create a web application to help photography
@@ -13,7 +11,9 @@ The users input their art work URL from trending social media
 After that
 There photos added to the showcase
 
-
+I'm testing most trending language 
+like dajango, angular, flutter etc..
 I'll update more soon........
+
 Thanks for reading
 
